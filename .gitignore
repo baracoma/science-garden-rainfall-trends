@@ -1,0 +1,26 @@
+# Local data: do not upload PAGASA or IBTrACS raw files
+data/
+
+# Local intermediate files
+output/intermediate/
+
+# Large or sensitive derived files
+*.pkl
+*.parquet
+*.nc
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment files
+.venv/
+env/
+.env
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
