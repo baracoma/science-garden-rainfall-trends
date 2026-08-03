@@ -1,0 +1,9 @@
+# Core analysis
+numpy>=1.24,<3
+pandas>=2.0,<3
+matplotlib>=3.7,<4
+scipy>=1.10,<2
+
+# Notebook environment
+jupyterlab>=4,<5
+ipykernel>=6,<8
