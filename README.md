@@ -1,4 +1,5 @@
 # Science Garden Rainfall Trends
+[![DOI](https://zenodo.org/badge/1297282566.svg)](https://doi.org/10.5281/zenodo.21765857)
 
 This repository contains the data-processing and analysis workflow for a station-based rainfall trend study at PAGASA Science Garden, Quezon City, Philippines.
 
